@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurakeserver01/eurakeserver01.iml" filepath="$PROJECT_DIR$/eurakeserver01/eurakeserver01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclientarticleservice/eurekaclientarticleservice.iml" filepath="$PROJECT_DIR$/eurekaclientarticleservice/eurekaclientarticleservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclientuserservice/eurekaclientuserservice.iml" filepath="$PROJECT_DIR$/eurekaclientuserservice/eurekaclientuserservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclientuserservice02/eurekaclientuserservice02.iml" filepath="$PROJECT_DIR$/eurekaclientuserservice02/eurekaclientuserservice02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservercluster/eurekaservercluster.iml" filepath="$PROJECT_DIR$/eurekaservercluster/eurekaservercluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserverclusterSlave/eurekaserverclusterSlave.iml" filepath="$PROJECT_DIR$/eurekaserverclusterSlave/eurekaserverclusterSlave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonnativedemo/ribbonnativedemo.iml" filepath="$PROJECT_DIR$/ribbonnativedemo/ribbonnativedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudparent.iml" filepath="$PROJECT_DIR$/springcloudparent.iml" />
+    </modules>
+  </component>
+</project>
